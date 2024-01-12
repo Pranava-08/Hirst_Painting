@@ -1,2 +1,3 @@
 # Hirst_Painting
- creates a hirst oainting
+ creates a hirst painting
+Damien Hirst's "Spot Paintings" are a renowned series characterized by canvases covered in grids of colored spots. Executed with a systematic, almost scientific approach, each spot is unique in size and color. The works vary in scale and feature titles inspired by chemical compounds or drugs, adding conceptual depth to the exploration of order, randomness, and the intersection of art and science.
